@@ -1,0 +1,37 @@
+# AI-related files and folders
+.claude/
+CLAUDE.md
+
+# Documentation (internal use only)
+docs/
+
+# Research papers (paywalled content)
+*.pdf
+TGF15_Springer_axthelm.pdf
+TGF2024_Proceedings_MatthiasSCHMID_finalSubmission.pdf
+references/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
